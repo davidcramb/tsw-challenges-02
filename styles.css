@@ -2,9 +2,10 @@
 DIV CARD STYLINGS
 *******/
 body {
-  width: 90%;
-  margin-left: auto:
-  margin-right: auto;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
 }
 
 .divRow { 
@@ -12,7 +13,6 @@ body {
   height: 400px;
   background-color: slategray;
   display: inline-flex;
-  justify-content: space-around
 }
 
 #div1:hover{
@@ -21,10 +21,19 @@ body {
 
 #div2:hover{
   border: 3px dotted red;
-
 }
 
 #div3:hover{
   border: 3px dotted red;
+}
+#div1, #div2, #div3 {
+  margin: 2% 1%;
+}
+
+#inputBox {
+  padding: 5em 2em;
+}
+
+#colorInput {
 
 }
