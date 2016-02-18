@@ -1,0 +1,30 @@
+/******
+DIV CARD STYLINGS
+*******/
+body {
+  width: 90%;
+  margin-left: auto:
+  margin-right: auto;
+}
+
+.divRow { 
+  width: 30%;
+  height: 400px;
+  background-color: slategray;
+  display: inline-flex;
+  justify-content: space-around
+}
+
+#div1:hover{
+  border: 3px dotted red;
+}
+
+#div2:hover{
+  border: 3px dotted red;
+
+}
+
+#div3:hover{
+  border: 3px dotted red;
+
+}
