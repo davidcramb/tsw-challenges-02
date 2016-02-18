@@ -13,6 +13,7 @@ body {
   height: 400px;
   background-color: slategray;
   display: inline-flex;
+  box-sizing: border-box;
 }
 
 #div1:hover{
