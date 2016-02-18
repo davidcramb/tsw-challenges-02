@@ -32,6 +32,7 @@ body {
 
 #inputBox {
   padding: 5em 2em;
+  visibility: hidden;
 }
 
 #colorInput {
