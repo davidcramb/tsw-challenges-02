@@ -4,6 +4,7 @@ var div2 = document.getElementById("div2");
 var div3 = document.getElementById("div3");
 var input = document.getElementById("inputBox")
 var change = ""
+
 button.addEventListener("click", changeBG);
 div1.addEventListener("click", divOne);
 div2.addEventListener("click", divTwo);
