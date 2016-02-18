@@ -19,3 +19,7 @@ function changeBG() {
 function hideInput() {
     
 }
+function getInputValue() {
+  var inputValue = document.getElementById("colorInput").value;
+  return inputValue;
+}
